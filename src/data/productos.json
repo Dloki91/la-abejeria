@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Miel de Azahar",
+    "categoria": "miel",
+    "precio": "$12.000",
+    "imagen": "https://via.placeholder.com/320x200.png?text=Miel+Azahar"
+  },
+  {
+    "id": 2,
+    "nombre": "Propóleo Spray",
+    "categoria": "propoleo",
+    "precio": "$9.500",
+    "imagen": "https://via.placeholder.com/320x200.png?text=Propoleo"
+  },
+  {
+    "id": 3,
+    "nombre": "Polen Deshidratado",
+    "categoria": "polen",
+    "precio": "$8.000",
+    "imagen": "https://via.placeholder.com/320x200.png?text=Polen"
+  },
+  {
+    "id": 4,
+    "nombre": "Cera de Abeja Natural",
+    "categoria": "cera",
+    "precio": "$7.000",
+    "imagen": "https://via.placeholder.com/320x200.png?text=Cera"
+  },
+  {
+    "id": 5,
+    "nombre": "Miel Multifloral",
+    "categoria": "miel",
+    "precio": "$11.000",
+    "imagen": "https://via.placeholder.com/320x200.png?text=Miel+Multifloral"
+  },
+  {
+    "id": 6,
+    "nombre": "Café con Miel",
+    "categoria": "miel",
+    "precio": "$10.500",
+    "imagen": "https://via.placeholder.com/320x200.png?text=Cafe+con+Miel"
+  }
+]
