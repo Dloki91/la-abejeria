@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Logo La Abejería panal">
+  <defs>
+    <pattern id="hex" width="40" height="34.64" patternUnits="userSpaceOnUse" patternTransform="scale(1)">
+      <polygon points="20,0 40,10 40,25 20,34.64 0,25 0,10" fill="#f5b200" opacity="0.18"/>
+    </pattern>
+  </defs>
+  <rect width="640" height="360" fill="#f5b200"/>
+  <rect width="640" height="360" fill="url(#hex)"/>
+  <circle cx="320" cy="180" r="150" fill="#1f1c18" opacity="0.75"/>
+  <image href="la-abejeria-color.svg" x="120" y="20" height="320" width="400"/>
+</svg>

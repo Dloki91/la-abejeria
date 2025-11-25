@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Miel de Azahar 500g",
+    "categoria": "miel",
+    "precio": "$28.000",
+    "imagen": "/images/productos/miel-azahar.svg"
+  },
+  {
+    "id": 2,
+    "nombre": "Miel de Montaña 1 kg",
+    "categoria": "miel",
+    "precio": "$45.000",
+    "imagen": "/images/productos/miel-montana.svg"
+  },
+  {
+    "id": 3,
+    "nombre": "Propóleo Spray 30 ml",
+    "categoria": "propoleo",
+    "precio": "$22.000",
+    "imagen": "/images/productos/propoleo-spray.svg"
+  },
+  {
+    "id": 4,
+    "nombre": "Propóleo en gotas 30 ml",
+    "categoria": "propoleo",
+    "precio": "$20.000",
+    "imagen": "/images/productos/propoleo-gotas.svg"
+  },
+  {
+    "id": 5,
+    "nombre": "Polen deshidratado 250 g",
+    "categoria": "polen",
+    "precio": "$18.000",
+    "imagen": "/images/productos/polen-deshidratado.svg"
+  },
+  {
+    "id": 6,
+    "nombre": "Cera de abeja pura 250 g",
+    "categoria": "cera",
+    "precio": "$15.000",
+    "imagen": "/images/productos/cera-abeja.svg"
+  },
+  {
+    "id": 7,
+    "nombre": "Café con miel 300 g",
+    "categoria": "miel",
+    "precio": "$24.000",
+    "imagen": "/images/productos/cafe-miel.svg"
+  },
+  {
+    "id": 8,
+    "nombre": "Kit bienestar (miel + propóleo)",
+    "categoria": "miel",
+    "precio": "$60.000",
+    "imagen": "/images/productos/kit-bienestar.svg"
+  }
+]

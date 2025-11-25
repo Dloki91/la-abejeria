@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7d25f"/>
+      <stop offset="100%" stop-color="#f5b200"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="200" fill="url(#bg)" rx="24"/>
+  <path d="M160 42 L210 120 A55 55 0 0 1 110 120 Z" fill="#8a5b2c" opacity="0.92"/>
+  <ellipse cx="160" cy="122" rx="55" ry="10" fill="#6b3b1e" opacity="0.35"/>
+  <rect x="140" y="130" width="40" height="18" rx="8" fill="#fef4d8"/>
+  <text x="160" y="143" text-anchor="middle" font-family="'Manrope', 'Inter', sans-serif" font-size="12" fill="#2d1a0f" font-weight="800">30 ml</text>
+  <text x="160" y="178" text-anchor="middle" font-family="'Manrope', 'Inter', sans-serif" font-size="18" fill="#4a2f13" font-weight="800">Propóleo</text>
+</svg>
