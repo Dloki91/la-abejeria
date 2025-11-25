@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "titulo": "¿Qué es la apicultura?",
+    "descripcion": "Explicación básica sobre la apicultura y su importancia.",
+    "tipo": "youtube",
+    "youtubeId": "Y4p6uq2tlXY"
+  },
+  {
+    "id": 2,
+    "titulo": "Recorrido por un apiario",
+    "descripcion": "Observa cómo trabajamos con las colmenas y cuidamos a las abejas.",
+    "tipo": "youtube",
+    "youtubeId": "4fT8Qm6rH1c"
+  },
+  {
+    "id": 3,
+    "titulo": "Beneficios de la miel cruda",
+    "descripcion": "Propiedades y usos cotidianos de la miel de La Abejería.",
+    "tipo": "youtube",
+    "youtubeId": "i3uoLVA1fEc"
+  }
+]

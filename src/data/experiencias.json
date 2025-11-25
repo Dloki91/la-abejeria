@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "titulo": "Visita apícola – Mosquera",
+    "descripcion": "Actividad educativa sobre manejo de colmenas.",
+    "imagen": "/images/experiencias/mosquera-01.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Cata de mieles artesanales",
+    "descripcion": "Descubrimos perfiles sensoriales de miel cruda y mielato.",
+    "imagen": "/images/experiencias/mosquera-02.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Jornada con apicultores locales",
+    "descripcion": "Compartimos prácticas sostenibles y protección de polinizadores.",
+    "imagen": "/images/experiencias/mosquera-03.jpg"
+  }
+]

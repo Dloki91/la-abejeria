@@ -20,6 +20,10 @@ function buildProductCard(producto) {
   return `
     <article class="product-card" data-categoria="${producto.categoria}">
       <div class="product-card__image" role="presentation">
+        <div class="product-card__promo">
+          <span class="promo-badge">Descuento por WhatsApp</span>
+          <span class="promo-badge promo-badge--accent">Descuentos especiales por 6 o 12 unidades</span>
+        </div>
         <img src="${producto.imagen}" alt="${producto.nombre}" loading="lazy" />
       </div>
       <div class="product-card__body">
