@@ -6,6 +6,15 @@ const categories = [
   { key: 'cera', label: 'Cera' },
 ]
 
+function formatCOP(value) {
+  if (!value) return ''
+  return new Intl.NumberFormat('es-CO', {
+    style: 'currency',
+    currency: 'COP',
+    maximumFractionDigits: 0
+  }).format(value)
+}
+
 function buildProductCard(producto) {
   const message = encodeURIComponent(`Hola, me interesa ${producto.nombre} de La Abejería.`)
   return `
@@ -16,8 +25,8 @@ function buildProductCard(producto) {
       <div class="product-card__body">
         <p class="badge ghost">${producto.categoria}</p>
         <h3>${producto.nombre}</h3>
-        <p class="price">${producto.precio}</p>
-        <a class="button primary" href="https://wa.me/573001112233?text=${message}" target="_blank" rel="noreferrer">Comprar por WhatsApp</a>
+        <p class="price">${formatCOP(producto.precioCliente)}</p>
+        <a class="button primary" href="https://wa.me/573157006152?text=${message}" target="_blank" rel="noreferrer">Comprar por WhatsApp</a>
       </div>
     </article>
   `

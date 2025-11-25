@@ -1,44 +1,156 @@
 [
   {
-    "id": 1,
-    "nombre": "Miel de Azahar",
+    "id": "miel-mosquera-380",
+    "nombre": "Miel Mosquera 380gr",
     "categoria": "miel",
-    "precio": "$12.000",
-    "imagen": "https://via.placeholder.com/320x200.png?text=Miel+Azahar"
+    "peso": 380,
+    "precioCliente": 26000,
+    "precioFeria": 23000,
+    "precio6": 19500,
+    "precio12": 18200,
+    "imagen": "/images/productos/miel-mosquera-380.jpg"
   },
   {
-    "id": 2,
-    "nombre": "Propóleo Spray",
+    "id": "miel-mosquera-700",
+    "nombre": "Miel Mosquera 700gr",
+    "categoria": "miel",
+    "peso": 700,
+    "precioCliente": 49000,
+    "precioFeria": 43000,
+    "precio6": 36750,
+    "precio12": 34300,
+    "imagen": "miel-mosquera-700.jpg"
+  },
+  {
+    "id": "miel-multifloral-380",
+    "nombre": "Miel Multifloral 380gr",
+    "categoria": "miel",
+    "peso": 380,
+    "precioCliente": 25000,
+    "precioFeria": 22000,
+    "precio6": 18750,
+    "precio12": 17500,
+    "imagen": "miel-multifloral-380.jpg"
+  },
+  {
+    "id": "miel-multifloral-700",
+    "nombre": "Miel Multifloral 700gr",
+    "categoria": "miel",
+    "peso": 700,
+    "precioCliente": 45000,
+    "precioFeria": 40000,
+    "precio6": 33750,
+    "precio12": 31500,
+    "imagen": "miel-multifloral-700.jpg"
+  },
+  {
+    "id": "mielato-400",
+    "nombre": "Mielato 400gr",
+    "categoria": "miel",
+    "peso": 400,
+    "precioCliente": 32000,
+    "precioFeria": 28000,
+    "precio6": 24000,
+    "precio12": 22400,
+    "imagen": "mielato-400.jpg"
+  },
+  {
+    "id": "mielato-800",
+    "nombre": "Mielato 800gr",
+    "categoria": "miel",
+    "peso": 800,
+    "precioCliente": 56000,
+    "precioFeria": 50000,
+    "precio6": 42000,
+    "precio12": 39200,
+    "imagen": "mielato-800.jpg"
+  },
+  {
+    "id": "propoleo-380",
+    "nombre": "Propóleo 380gr",
     "categoria": "propoleo",
-    "precio": "$9.500",
-    "imagen": "https://via.placeholder.com/320x200.png?text=Propoleo"
+    "peso": 380,
+    "precioCliente": 25000,
+    "precioFeria": 22000,
+    "precio6": 18750,
+    "precio12": 17500,
+    "imagen": "/images/productos/propoleo-380.jpg"
   },
   {
-    "id": 3,
-    "nombre": "Polen Deshidratado",
+    "id": "propoleo-700",
+    "nombre": "Propóleo 700gr",
+    "categoria": "propoleo",
+    "peso": 700,
+    "precioCliente": 45000,
+    "precioFeria": 40000,
+    "precio6": 33750,
+    "precio12": 31500,
+    "imagen": "propoleo-700.jpg"
+  },
+  {
+    "id": "polen-200",
+    "nombre": "Polen 200gr",
     "categoria": "polen",
-    "precio": "$8.000",
-    "imagen": "https://via.placeholder.com/320x200.png?text=Polen"
+    "peso": 200,
+    "precioCliente": 25000,
+    "precioFeria": 22000,
+    "precio6": 18750,
+    "precio12": 17500,
+    "imagen": "/images/productos/polen-200.jpg"
   },
   {
-    "id": 4,
-    "nombre": "Cera de Abeja Natural",
+    "id": "polen-400",
+    "nombre": "Polen 400gr",
+    "categoria": "polen",
+    "peso": 400,
+    "precioCliente": 45000,
+    "precioFeria": 40000,
+    "precio6": 33750,
+    "precio12": 31500,
+    "imagen": "polen-400.jpg"
+  },
+  {
+    "id": "cera-1kg",
+    "nombre": "Cera de Abejas 1Kg",
     "categoria": "cera",
-    "precio": "$7.000",
-    "imagen": "https://via.placeholder.com/320x200.png?text=Cera"
+    "peso": 1000,
+    "precioCliente": 50000,
+    "precioFeria": 50000,
+    "precio6": 37500,
+    "precio12": 35000,
+    "imagen": "cera-1kg.jpg"
   },
   {
-    "id": 5,
-    "nombre": "Miel Multifloral",
-    "categoria": "miel",
-    "precio": "$11.000",
-    "imagen": "https://via.placeholder.com/320x200.png?text=Miel+Multifloral"
+    "id": "visita-apicola",
+    "nombre": "Visitas Apícolas",
+    "categoria": "servicio",
+    "peso": null,
+    "precioCliente": 50000,
+    "precioFeria": 50000,
+    "precio6": 37500,
+    "precio12": 35000,
+    "imagen": "visita-apicola.jpg"
   },
   {
-    "id": 6,
-    "nombre": "Café con Miel",
+    "id": "miel-cunyete-1kg",
+    "nombre": "Miel KG (Cuñete)",
     "categoria": "miel",
-    "precio": "$10.500",
-    "imagen": "https://via.placeholder.com/320x200.png?text=Cafe+con+Miel"
+    "peso": 1000,
+    "precioCliente": 30000,
+    "precioFeria": 30000,
+    "precio6": 22500,
+    "precio12": 21000,
+    "imagen": "miel-cunyete-1kg.jpg"
+  },
+  {
+    "id": "miel-mosquera-15",
+    "nombre": "Miel Mosquera 15gr",
+    "categoria": "miel",
+    "peso": 15,
+    "precioCliente": 3000,
+    "precioFeria": 3000,
+    "precio6": 3000,
+    "precio12": 3000,
+    "imagen": "miel-mosquera-15.jpg"
   }
 ]
